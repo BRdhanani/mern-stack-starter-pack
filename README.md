@@ -1,2 +1,2 @@
-# mern-stack-starter-pack
+# MERN stack starter pack
 This is starter pack for mern stack project.
